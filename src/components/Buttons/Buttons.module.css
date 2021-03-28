@@ -1,8 +1,0 @@
-.buttons {
-  display: flex;
-  justify-content: space-around;
-}
-
-.buttons button {
-  font-size: 20px;
-}
